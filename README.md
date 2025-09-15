@@ -10,5 +10,5 @@ Taxi environment can be found at [Gymnasium](https://gymnasium.farama.org/enviro
 
 - Install any [Python](https://www.python.org/downloads/) version
 - Run the command: `pip install "gymnasium[toy-text]"` (downloads environment)
-- Run the command: `py Taxi.py`, or hit the run button on your compiler
+- Run the command: `py code/Taxi.py`, or hit the run button on your compiler
 
