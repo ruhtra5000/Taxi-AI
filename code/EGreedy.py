@@ -10,7 +10,7 @@ class EGreedy:
     def __init__(self):
         # Decrease randomRate if you want more conscious actions 
         # (useful if you have a Q-table from a csv file)
-        self.randomRate = 1.0 # (minimum: 0.0)
+        self.randomRate = 0.0 # (minimum: 0.0)
         self.lowerRate = 0.99996
 
     # Defines exploration and exploitation actions

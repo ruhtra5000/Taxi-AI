@@ -9,7 +9,7 @@ qtable = QTable()
 egreedy = EGreedy()
 
 # Uncomment if you want to use a previous Q-table (csv file)
-#qtable.readQTable()
+qtable.readQTable()
 
 numEpisodes = 1000
 stepsPerEpisode = 200
