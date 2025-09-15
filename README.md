@@ -4,7 +4,7 @@ Small AI project to exercise Reinforcement Learning, using Q-Table. Project base
 
 ## Environment
 
-Taxi environment can be found at [Gymnasium](https://gymnasium.farama.org/environments/toy_text/taxi/)
+Taxi environment can be found at [Gymnasium](https://gymnasium.farama.org/environments/toy_text/taxi/).
 
 ## Running the project
 
